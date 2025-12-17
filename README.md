@@ -77,5 +77,35 @@ Người sử dụng **tự chịu trách nhiệm** cho mọi hành vi sử dụ
 
 ---
 
-## 📂 Cấu trúc repository (ví dụ)
+## 📂 Cấu trúc repository 
+.
+├── vulnerable_app/ # Ứng dụng web dễ bị tấn công
+├── exploit_notes/ # Ghi chú phân tích & khai thác
+├── scripts/ # Script hỗ trợ test
+├── docs/ # Tài liệu mô tả & báo cáo
+└── README.md
+
+
+---
+
+## 📖 Giấy phép (License)
+
+Repository này được phát hành dưới giấy phép **MIT License**.
+
+Bạn được phép:
+- Sử dụng
+- Sao chép
+- Chỉnh sửa
+- Phân phối
+
+Miễn là giữ nguyên thông tin bản quyền và giấy phép.
+
+---
+
+## ⚠️ Tuyên bố miễn trừ trách nhiệm
+
+Mã nguồn trong repository này **chỉ dùng cho mục đích giáo dục**.  
+Tác giả **không chịu trách nhiệm** cho bất kỳ hành vi lạm dụng nào.
+
+---
 
